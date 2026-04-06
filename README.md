@@ -1,48 +1,91 @@
-# 🌸 Hi there, I'm Ardi — (ardiann-eng) 🚀
+<div align="center">
+  <h1>Hi there, I'm Ardi 👋</h1>
+  <h3>Full-Stack Infrastructure Developer & AI Trading Systems Engineer</h3>
+  
+  <p>
+    <strong>Building high-performance automated trading ecosystems</strong> for Hyperliquid perpetual futures.<br>
+    "Optimizing humanity, one line of code at a time." 🌸💎
+  </p>
 
-**Full-Stack Infrastructure Developer & AI Trading Enthusiast.** 
-Specializing in building high-performance, automated trading ecosystems and premium web experiences.
-
----
-
-### 🛠️ Tech Stack & Expertise
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 📊 My GitHub Journey
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardiann-eng&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardiann-eng&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardiann-eng&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
-</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Asyncio-FF9900?style=for-the-badge&logo=python&logoColor=white" alt="Asyncio" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Hyperliquid-000000?style=for-the-badge&logo=hyperliquid&logoColor=white" alt="Hyperliquid" />
+</div>
 
 ---
 
-### 🎯 Featured Masterpiece: KARA-400
+### 🚀 Featured Project — **KARA-400**
 
-I am currently developing [KARA-400](https://github.com/ardiann-eng/kara-400), an advanced **Intelligence Trading Partner** for Hyperliquid. 
-- **Core Technology**: Python Asyncio + FastAPI.
-- **Features**: Multi-user session isolation, IDR Localization, Automated Risk Management.
-- **Interface**: Premium interactive Telegram cards & Glassmorphism Dashboard.
+**KARA** adalah AI Trading Bot canggih untuk **Hyperliquid Perpetual Futures** yang saya bangun dari nol.
+
+- **Target user**: Mahasiswa Indonesia dengan modal kecil (Rp1 juta – Rp15 juta)
+- **Core Philosophy**: Safety first, profit second
+- **Fitur Utama**:
+  - Multi-user support (Paper Mode + Live Mode dengan Agent Wallet)
+  - Scalping & Swing hybrid (bisa switch mode via Telegram)
+  - Risk management ketat + automated pyramid & time-based exit
+  - Premium Glassmorphism Dashboard + Interactive Telegram Cards
+  - Full IDR localization (saldo virtual Rp1.000.000 di Paper Mode)
+
+**Tech Stack Utama**:
+- Python 3.12 + Asyncio
+- FastAPI + WebSocket
+- Hyperliquid Python SDK
+- Tailwind + Lightweight Charts
+- SQLAlchemy + Fernet Encryption
+
+🔗 **Repository**: [kara-400](https://github.com/ardiann-eng/kara-400)
 
 ---
 
-### 📫 Connect with me
+### 💡 Tentang Saya
 
-[ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/ardiann-eng)
-[ ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ](https://t.me/ardiann_eng)
+Saya adalah **Full-Stack Infrastructure Developer** dengan fokus kuat di **automated trading systems** dan **real-time financial infrastructure**. 
+
+Saat ini saya sedang mengembangkan ekosistem trading yang cepat, aman, dan ramah bagi trader retail Indonesia — mulai dari mahasiswa hingga trader aktif.
+
+**Spesialisasi**:
+- High-frequency & low-latency trading bots
+- Multi-user Telegram bots dengan secure wallet isolation
+- Real-time dashboard (WebSocket + Glassmorphism UI)
+- Risk-first architecture & automated execution
 
 ---
-"Optimizing humanity, one line of code at a time." 🌸💎
 
+### 🛠️ Tech Stack
+
+**Core**  
+- **Backend**: Python, FastAPI, Asyncio  
+- **Trading**: Hyperliquid SDK, WebSocket, Orderbook & CVD Analysis  
+- **Frontend**: Tailwind CSS, Lightweight Charts, Glassmorphism Design  
+- **Database**: SQLite → PostgreSQL (multi-user ready)  
+- **Security**: Fernet Encryption, Agent Wallet (no withdrawal permission)
+
+**Tools & Others**  
+- Docker, Railway, GitHub Actions  
+- Telegram Bot API (python-telegram-bot v21)  
+- Monitoring & Notification System
+
+---
+
+### 📊 GitHub Stats
+
+- **Currently building**: KARA-400 — AI Trading Partner for Hyperliquid
+- **Focus**: Scalable multi-user trading infrastructure
+- **Goal**: Membantu ribuan trader Indonesia trading lebih aman, cepat, dan profitable
+
+---
+
+<div align="center">
+  <p><strong>Terbuka untuk kolaborasi, diskusi trading bot, atau proyek infrastruktur finansial.</strong></p>
+  
+  <p>
+    📩 <strong>Mau coba KARA di Paper Mode?</strong> Langsung chat bot di Telegram atau fork repository KARA-400.
+  </p>
+</div>
+
+---
+
+Made with ❤️ in Indonesia 🇮🇩
