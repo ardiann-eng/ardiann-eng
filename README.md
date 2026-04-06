@@ -3,8 +3,9 @@
   <h3>Full-Stack Infrastructure Developer & AI Trading Systems Engineer</h3>
   
   <p>
-    <strong>Building high-performance automated trading ecosystems</strong> for Hyperliquid perpetual futures.<br>
-    "Optimizing humanity, one line of code at a time." 🌸💎
+   Mimpi saya sederhana: membangun AI Agent yang benar-benar bisa <strong>membantu manusia</strong> — 
+    bukan cuma chatbot pintar, tapi sistem yang bisa trading, mengelola risiko, dan membuat keputusan 
+    di dunia nyata dengan cepat dan bertanggung jawab.
   </p>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
